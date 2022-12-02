@@ -1,15 +1,14 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/XWHFkhjXFOixXZ5iIo/giphy.gif" width="100"/>
   <div id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"
-         href="https://www.linkedin.com/in/dmitriy-bulaukin-7197b3244/"/>
+  <a href="https://www.linkedin.com/in/dmitriy-bulaukin-7197b3244/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://t.me/DmitryFB">
     <img src="https://img.shields.io/badge/Telegram-violent?logo=telergram&logoColor=white&style=for-the-badge" alt="Youtube Badge"/>
   </a>
   <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Viber-blue?style=for-the-badge&logo=viber&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Viber-violet?style=for-the-badge&logo=viber&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=Sensationbel&style=flat-square&color=blue" alt=""/>
@@ -38,7 +37,7 @@ I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles. -->
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Bulaukin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dmitriy-bulaukin-7197b3244/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Bulaukin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dmitriy-bulaukin-7197b3244/) [![Telegram Badge](https://img.shields.io/badge/-Bulaukin-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/DmitryFB)
 
 ---
 
